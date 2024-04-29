@@ -2,7 +2,8 @@
 
 I have created a 2D map by merging data from two LiDARs mounted on a mobile manipulator platform, as shown in the diagram below. You can modify the lua file and launch file appropriately to not only create a 2D map but also a 3D map.
 
-and you will need the cartographer and cartographer_ros packages, so please install them based on the [this link](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html)
+You will need the cartographer and cartographer_ros packages, so please install them based on the [this link](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html)
+
 
 ## How to make 2D map
 
